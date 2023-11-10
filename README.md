@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, i´m thiago ticiano👋
 
-<!--
-**thiagotsdelima/thiagotsdelima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About
+I´m a Web Developer. And, i´m studyng web developer at [Rocketseat](https://app.rocketseat.com.br/).
 
-Here are some ideas to get you started:
+### Current stack
+- ⚡️ Main Language: 'JavaScript'
+- 📡 Backend: 'NOdejs'
+- 🎉 Frontend: 'Reactjs', 'HTML5', 'CSS3', 'JavaScript'
+- 🎨 Layout Design: 'Figma'
+- 📦️ Version code control: 'Git & Github'
+- 🔨 Tools: 'Vscode', 'Markdown'
+- 🌎 I´m mostly active within the 'Rocketseat Community'
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ #### Contcats
+ - 📧 Email: thiagotsdelima@outlook.com
+ - 👤 Linkedin: https://www.linkedin.com/in/thiago-sombra-8a875b137/
+   
