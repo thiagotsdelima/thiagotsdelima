@@ -5,7 +5,7 @@ I´m a Web Developer. And, i´m studyng web developer at [Rocketseat](https://ap
 
 ### Current stack
 - ⚡️ Main Language: 'JavaScript'
-- 📡 Backend: 'NOdejs'
+- 📡 Backend: 'Nodejs'
 - 🎉 Frontend: 'Reactjs', 'HTML5', 'CSS3', 'JavaScript'
 - 🎨 Layout Design: 'Figma'
 - 📦️ Version code control: 'Git & Github'
