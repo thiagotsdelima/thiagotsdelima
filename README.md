@@ -1,7 +1,7 @@
 ### Hi there, i´m thiago ticiano👋
 
 ### About
-I´m a Web Developer. And, i´m studyng web developer at [Rocketseat](https://app.rocketseat.com.br/).
+I´m a Web Developer. And, i´m studyng web development at [Rocketseat](https://app.rocketseat.com.br/).
 
 ### Current stack
 - ⚡️ Main Language: 'JavaScript'
