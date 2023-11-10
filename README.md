@@ -5,14 +5,14 @@ I´m a Web Developer. And, i´m studyng web developer at [Rocketseat](https://ap
 
 ### Current stack
 - ⚡️ Main Language: 'JavaScript'
-- 📡 Backend: 'Nodejs'
-- 🎉 Frontend: 'Reactjs', 'HTML5', 'CSS3', 'JavaScript'
+- 📡 Backend: 'Node.js'
+- 🎉 Frontend: 'React.js', 'HTML5', 'CSS3', 'JavaScript'
 - 🎨 Layout Design: 'Figma'
 - 📦️ Version code control: 'Git & Github'
 - 🔨 Tools: 'Vscode', 'Markdown'
 - 🌎 I´m mostly active within the 'Rocketseat Community'
 
- #### Contcats
+ ### Contcats
  - 📧 Email: thiagotsdelima@outlook.com
  - 👤 Linkedin: https://www.linkedin.com/in/thiago-sombra-8a875b137/
    
