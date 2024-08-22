@@ -13,6 +13,6 @@ I´m a Web Developer. And, i´m studyng web development at [Rocketseat](https://
 - 🌎 I´m mostly active within the 'Rocketseat Community'
 
  ### Contcats
- - 📧 Email: thiagotsdelima@outlook.com
+ - 📧 Email: thiagotsdelima@gmail.com
  - 👤 Linkedin: https://www.linkedin.com/in/thiago-sombra-8a875b137/
    
