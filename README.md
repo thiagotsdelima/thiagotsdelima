@@ -12,7 +12,7 @@ My approach to problem-solving extends beyond mere lines of code; I delve deep i
 - 🎉 Frontend: 'React.js', 'Next.js', 'HTML5', 'CSS3', 'JavaScript', 'Typescript', 'Vue.js'
 - 🎨 Layout Design: 'Figma'
 - 📦️ Version code control: 'Git & Github'
-- 🔨 Tools: 'Vscode', 'Markdown'
+- 🔨 Tools: 'Vscode', 'Markdown', 'XCode'
 
  ### Contcats
  - Feel free to explore some of my writings and projects: portifolio-thiago-omega.vercel.app
