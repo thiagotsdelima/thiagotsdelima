@@ -8,7 +8,7 @@ My approach to problem-solving extends beyond mere lines of code; I delve deep i
 ### Current stack
 - ⚡️ Main Language: 'Javascript'
 - 📱 Mobile:  'React Native', 'Swift'
-- 📡 Backend: 'Node.js', 'Python', 'PostegressSQL', 'MongoDB', 'Nest.js'
+- 📡 Backend: 'Node.js', 'Python', 'PostgreSQL', 'MongoDB', 'Nest.js'
 - 🎉 Frontend: 'React.js', 'Next.js', 'HTML5', 'CSS3', 'JavaScript', 'Typescript', 'Vue.js'
 - 🎨 Layout Design: 'Figma'
 - 📦️ Version code control: 'Git & Github'
